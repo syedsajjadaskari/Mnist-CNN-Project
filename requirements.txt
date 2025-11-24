@@ -4,3 +4,5 @@ streamlit
 numpy
 pillow
 matplotlib
+
+tensorflow_datasets
